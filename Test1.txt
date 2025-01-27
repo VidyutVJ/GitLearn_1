@@ -1,1 +1,5 @@
 new Repository create from local store in pc
+
+git init
+git remote add origin https://github.com/VidyutVJ/GitLearn_1.git
+git branch -m  main ----- master chage to main
